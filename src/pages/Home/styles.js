@@ -12,6 +12,7 @@ export const Container = styled.div`
     "menu top"
     "menu content";
 
+    
   @media (max-width: ${DEVICE_BREAKPOINTS.MD}) {
     grid-template-columns: auto;
     grid-template-rows: auto 1fr;

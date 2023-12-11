@@ -22,4 +22,4 @@ export const Container = styled.button`
     color: ${theme.COLORS.BLUE_300}
   `};
 
-`;
+`
