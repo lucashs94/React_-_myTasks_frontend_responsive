@@ -43,8 +43,8 @@ export function SideMenu({ menuIsOpen, onCloseMenu }) {
       <Footer>
         <img src="https://github.com/lucashs94.png" alt="Foto do usuário" />
         <div>
-          <strong>Rodrigo Gonçalves</strong>
-          <small>rodrigo@email.com</small>
+          <strong>Lucas Silva</strong>
+          <small>lucas@email.com</small>
         </div>
 
         <Button type="button">
